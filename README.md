@@ -13,11 +13,13 @@
   <thead align="center">
     <tr border: none;>
       <td><b>Proyectos</b></td>
+      <td><b>Estatus</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
      <td><a href="https://github.com/PVEGAM/Rock-EDM-Festival-Proyecto"><b>Rock EDM Festival Proyecto</b></a></td>
+      <td><img alt="Estatus" src="https://img.shields.io/static/v1?style=flat&label=ESTATUS&message=FINALIZADO&color=green"/></td>
     </tr>
   </tbody>
 </table>
