@@ -14,12 +14,17 @@
     <tr border: none;>
       <td><b>Proyectos</b></td>
       <td><b>Estatus</b></td>
+      <td><b>Lenguajes</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
      <td><a href="https://github.com/PVEGAM/Rock-EDM-Festival-Proyecto"><b>Rock EDM Festival Proyecto</b></a></td>
       <td><img alt="Estatus" src="https://img.shields.io/static/v1?style=flat&label=ESTATUS&message=FINALIZADO&color=green"/></td>
+      <td><img alt="html5" src="https://img.shields.io/badge/-HTML5-ED8B00?style=flat-square&logo=html5&logoColor=white"/>
+      <img alt="css3" src="https://img.shields.io/badge/-CSS3-ED8B00?style=flat-square&logo=css3&logoColor=white"/>
+      <img alt="javascript" src="https://img.shields.io/badge/-JAVASCRIPT-ED8B00?style=flat-square&logo=javascript&logoColor=white"/>
+      <img alt="gulp" src="https://img.shields.io/badge/-GULP-ED8B00?style=flat-square&logo=gulp&logoColor=white"/>
     </tr>
   </tbody>
 </table>
