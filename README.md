@@ -21,7 +21,7 @@
   <tbody>
     <tr>
      <td><a href="https://github.com/PVEGAM/Rock-EDM-Festival-Proyecto"><b>Rock EDM Festival Proyecto</b></a></td>
-      <td><a><b>Pagina web</b></a></td>
+      <td><a><b>Pagina Web</b></a></td>
       <td><img alt="Estatus" src="https://img.shields.io/static/v1?style=for-the-badge&label=ESTATUS&message=FINALIZADO&color=green"/></td>
       <td><img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
       <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -30,7 +30,7 @@
     </tr>
      <tr>
      <td><a href="https://github.com/PVEGAM/Blog-Cafe-Proyecto"><b>Blog de Cafe Proyecto</b></a></td>
-      <td><a><b>Pagina web</b></a></td>
+      <td><a><b>Pagina Web</b></a></td>
       <td><img alt="Estatus" src="https://img.shields.io/static/v1?style=for-the-badge&label=ESTATUS&message=FINALIZADO&color=green"/></td>
       <td><img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
       <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
