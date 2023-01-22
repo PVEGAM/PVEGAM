@@ -8,7 +8,7 @@
   <img alt="javascript" src="https://img.shields.io/badge/-JAVASCRIPT-ED8B00?style=for-the-badge&logo=javascript&logoColor=white" />
 
 </p>
-<h3>Open source projects</h3>
+<h3>Lista de proyectos</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -28,7 +28,7 @@
     </tr>
   </tbody>
 </table>
-<h3>Where to find me</h3>
+<h3>Donde contactarme</h3>
 <p><a href="mailto:pvegam17@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/GMAIL-D14836?.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 <a href="" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/patricio-vega-11a729255/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
