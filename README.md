@@ -36,6 +36,15 @@
       <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
       <img alt="javascript" src="https://img.shields.io/badge/-JAVASCRIPT-ED8B00?style=for-the-badge&logo=javascript&logoColor=white"/>
     </tr>
+       <tr>
+     <td><a href="https://github.com/PVEGAM/Bienes-Raices-Proyecto"><b>Bienes Raices Proyecto</b></a></td>
+      <td><a><b>Pagina Web</b></a></td>
+      <td><img alt="Estatus" src="https://img.shields.io/static/v1?style=for-the-badge&label=ESTATUS&message=PENDIENTE&color=yellow"/></td>
+      <td><img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img alt="javascript" src="https://img.shields.io/badge/-JAVASCRIPT-ED8B00?style=for-the-badge&logo=javascript&logoColor=white"/>
+       <img alt="gulp" src="https://img.shields.io/badge/-GULP-F40027?style=for-the-badge&logo=gulp&logoColor=white"/>
+    </tr>
   </tbody>
 </table>
 <h3>Donde contactarme</h3>
